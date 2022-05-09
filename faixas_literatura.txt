@@ -1,0 +1,8 @@
+# Faixas de valores usados no gerador de dados de entrada:
+# Entrada: start, stop, step
+# Razões de refluxo: 1.1, 7, 0.2
+# Vazão de Água: Vazão de Methanol * 0.114          kmol/hr
+# Vazão de Methanol: 30, 150, 5           kmol/hr
+# Vazão de Glycerol = Vazão de Methanol
+# Temperatura: 40, 88, 2                    ºC
+# Pressão: 101325, 200000, 1000                   Pa
